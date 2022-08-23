@@ -1,0 +1,193 @@
+@media(max-width:460px) {
+    body {
+        max-width: none;
+    }
+}
+
+
+@media(max-width:460px) {
+    .menu {
+        display: none;
+    }
+}
+
+@media(min-width:460px) {
+    .burger_menu {
+        display: none;
+    }
+}
+
+@media (max-width: 460px) {
+    .logo_block {
+        flex-direction: column;
+        width: 100%;
+        /* padding-left: 5%; */
+    }
+}
+
+
+@media (max-width: 460px) {
+    .logo_block h1 {
+        font-size: 30px;
+        font-weight: 100;
+        padding-top: 30px;
+        /* padding-left: 2%; */
+    }
+}
+
+
+@media(max-width:460px) {
+    .question_block {
+        flex-direction: column;
+        width: 100%;
+        /* padding-left: 5%; */
+    }
+}
+
+
+
+
+@media(max-width:460px) {
+    .question_block p {
+        width: 100%;
+        font-weight: 500;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 30px;
+    }
+}
+
+
+
+
+@media (max-width: 460px) {
+    .pj {
+        font-size: 50px;
+        font-weight: 500;
+        padding-left: 5%;
+    }
+}
+
+
+@media (max-width: 460px) {
+    .video_player {
+        width: 100%;
+    }
+}
+
+
+@media (max-width: 460px) {
+    .video {
+        width: 90%;
+        height: 400px;
+        border-radius: 20px;
+        left: 8%;
+
+    }
+}
+
+
+@media (max-width: 460px) {
+    .player {
+        width: 60px;
+        top: 200%;
+        left: 45%;
+    }
+}
+
+
+@media (max-width: 460px) {
+    .section_quest {
+        display: none;
+    }
+
+}
+
+
+@media (max-width: 460px) {
+    .world {
+        font-size: 50px;
+        padding-left: 5%;
+        font-weight: 500;
+    }
+}
+
+
+
+@media (max-width: 460px) {
+    .project_text {
+        font-size: 30px;
+        width: 100%;
+        font-weight: 400;
+        padding-left: 5%;
+        line-height: 30px;
+
+    }
+}
+
+
+
+@media (max-width: 460px) {
+    .android {
+        width: 100%;
+        /* justify-content: space-between; */
+        height: 130px;
+    }
+}
+
+
+
+@media (max-width: 460px) {
+    .project_text2 {
+        font-size: 30px;
+        width: 100%;
+        font-weight: 400;
+        padding-left: 5%;
+        line-height: 30px;
+
+    }
+}
+
+@media (max-width: 460px) {
+    .some {
+        font-size: 50px;
+    }
+}
+
+
+@media (max-width: 460px) {
+    .internet {
+        width: 100%;
+        justify-content: space-around;
+    }
+}
+
+@media (max-width: 460px) {
+    .slova {
+        flex-direction: column;
+        text-align: center;
+    }
+}
+
+
+@media (max-width: 460px) {
+    .slova1 {
+        width: 100%;
+        margin-top: 20px;
+    }
+}
+
+
+@media (max-width: 460px) {
+    .slova1 p {
+        font-size: 25px;
+        font-weight: 400;
+    }
+}
+
+
+@media (max-width: 460px) {
+    .slova1 h3 {
+        font-weight: 500;
+        font-size: 35px;
+    }
+}
